@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Caojianfei
+ * User: WenboBao
  * Date: 2018/10/8/008
  * Time: 14:56
  */
 
-namespace Caojianfei\QcloudCos;
+namespace WenboBao\QcloudCos;
 
 use Storage;
 use Qcloud\Cos\Client;

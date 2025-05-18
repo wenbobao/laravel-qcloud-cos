@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Caojianfei
+ * User: WenboBao
  * Date: 2018/10/8/008
  * Time: 15:11
  */
 
-namespace Caojianfei\QcloudCos;
+namespace WenboBao\QcloudCos;
 
 use Qcloud\Cos\Client;
 use League\Flysystem\Util;
